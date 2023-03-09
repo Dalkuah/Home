@@ -1,0 +1,7 @@
+FileVersion:2
+Type:Static
+Guid:A13CDD42-474D-CAD1-8057-81A776C5006F
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/CoinGame/GameMode/ST_PlayerState.ST_PlayerState
+/Game/CoinGame/TimeGame/TimeHudWidget.TimeHudWidget
