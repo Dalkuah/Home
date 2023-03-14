@@ -5,3 +5,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 
 /Game/CoinGame/GameMode/ST_PlayerState.ST_PlayerState
 /Game/CoinGame/TimeGame/TimeHudWidget.TimeHudWidget
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
